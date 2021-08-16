@@ -8,6 +8,6 @@ namespace Computadora.Negocio
 {
     class NClsComputadora
     {
-
+        
     }
 }
